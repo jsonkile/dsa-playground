@@ -2,7 +2,7 @@ package arrays.sort
 
 /**
  * Crawls through the array and makes a swap where necessary
- * Big 0 - N² (In the worst case - reverse ordered array, for each comparison in each pass, a swap is made)
+ * Big 0 - N² (In the worst case i.e. reverse ordered array, for each comparison in each pass, a swap is made)
  */
 
 fun Array<Int>.bubbleSort(): Array<Int> {
