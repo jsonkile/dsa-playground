@@ -1,6 +1,6 @@
-package arrays
+package dsa.playground.arrays.search
 
-import arrays.search.linearSearch
+import dsa.playground.arrays.search.linearSearch
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

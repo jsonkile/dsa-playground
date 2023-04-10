@@ -1,4 +1,4 @@
-package arrays.search
+package dsa.playground.arrays.search
 
 /**
  * Crawls through the array sequentially until it finds a match

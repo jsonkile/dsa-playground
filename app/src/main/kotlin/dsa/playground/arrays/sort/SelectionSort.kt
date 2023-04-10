@@ -1,4 +1,4 @@
-package arrays.sort
+package dsa.playground.arrays.sort
 
 fun Array<Int>.selectionSort(): Array<Int> {
 

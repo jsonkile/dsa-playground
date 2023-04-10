@@ -1,4 +1,4 @@
-package arrays.sort
+package dsa.playground.arrays.sort
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

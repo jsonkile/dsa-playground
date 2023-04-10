@@ -1,4 +1,4 @@
-package arrays.search
+package dsa.playground.arrays.search
 
 
 /**

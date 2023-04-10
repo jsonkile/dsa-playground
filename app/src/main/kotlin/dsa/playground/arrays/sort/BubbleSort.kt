@@ -1,4 +1,4 @@
-package arrays.sort
+package dsa.playground.arrays.sort
 
 /**
  * Crawls through the array and makes a swap where necessary
