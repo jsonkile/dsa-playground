@@ -1,5 +1,9 @@
 package dsa.playground.arrays.sort
 
+/**
+ * Takes half the steps of Bubble sort
+ * Big 0 - N² (Ignoring constants)
+ */
 fun Array<Int>.selectionSort(): Array<Int> {
 
     if (this.size < 2) return this
